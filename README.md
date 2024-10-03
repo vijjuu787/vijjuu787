@@ -1,7 +1,6 @@
 ## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/e078f0eb-27f4-4b9f-afa3-41dbf470eb63)
 
-[![MasterHead]()![github-header-image](https://github.com/user-attachments/assets/03fa8209-a164-4318-afa1-8a18c90ddf62)
-]
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align ="right"  alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
